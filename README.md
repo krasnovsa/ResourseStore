@@ -1,2 +1,0 @@
-# ResourseStore
-Created with CodeSandbox
